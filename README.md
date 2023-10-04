@@ -10,7 +10,9 @@ repositorio para armazenar resumo sobre git e gitHubdo curso de versionamento da
 
 | Aulas | Resumos |
 |-------|---------|
-| Gravando Alterações no Repositório Local | [Resumos]() |
+| Aula 1 | [Resumo]() |
+| Aula 2 | [Resumo]() |
+
 
 ## 📟 Codigos do Terminal
 
@@ -21,4 +23,4 @@ git init
 ```
 
 ## 🔎 Referências
--[DIO]()
+- [DIO](www.dio.mr)
