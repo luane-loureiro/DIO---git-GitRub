@@ -13,6 +13,8 @@ repositorio para armazenar resumo sobre git e gitHubdo curso de versionamento da
 | Aula 1 | [Resumo]() |
 | Aula 2 | [Resumo]() |
 
+## Como funciona o Git?
+<img height="600" src="https://raw.githubusercontent.com/luane-loureiro/DIO---git-GitRub/fbfe94bfc4ba3c4e743c32dbbc59681acd728927/GIt-%20funcionamento.gif">
 
 ## 📟 Codigos do Terminal
 
