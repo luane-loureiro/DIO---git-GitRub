@@ -16,6 +16,22 @@ repositorio para armazenar resumo sobre git e gitHubdo curso de versionamento da
 ## Como funciona o Git?
 <img height="600" src="https://raw.githubusercontent.com/luane-loureiro/DIO---git-GitRub/fbfe94bfc4ba3c4e743c32dbbc59681acd728927/GIt-%20funcionamento.gif">
 
+## :octocat: Diferenças entre Git e GitHub 
+
+| Git | Github |
+|------|------|
+|Software | serviço |
+|É mantido pelo linux | É mantido pela Microsoft |
+| foi lançado em 2005 | Foi lançado em 2008 |
+| gerencia o histórico do código | um serviço de hospedagem para repositórios git |
+| instalado localmente no sistema | está hospedo na web |
+| Foco no controle de versão e compartilhamento de código | foco na hospedagemcentralizada de códigos |
+| não tem recurso de gerenciamento de usuários | tem um recurso integrado de gerenciamento de usuários |
+
+
+
+
+
 ## 📟 Codigos do Terminal
 
 ### Criando e Clonando Repositórios
